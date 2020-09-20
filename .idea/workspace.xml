@@ -23,8 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/osahan.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/osahan.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,7 @@
       <workItem from="1599889876394" duration="12024000" />
       <workItem from="1599970359538" duration="1509000" />
       <workItem from="1599974897549" duration="8106000" />
+      <workItem from="1600576081493" duration="4609000" />
     </task>
     <servers />
   </component>
